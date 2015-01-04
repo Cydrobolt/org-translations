@@ -33,3 +33,5 @@ $lang['gi_irclink']                     = "Join us on Internet Relay Chat (IRC)"
 $lang['gi_web_report_bug'] = "Report a website bug";
 $lang['gi_web_translations'] = "Help translate this website";
 $lang['gi_view_design_submission'] = "View our design submission how-to";
+
+$lang['gi_web_github'] = "Find us on GitHub";

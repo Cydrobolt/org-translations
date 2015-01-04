@@ -33,3 +33,4 @@ $lang['gi_irclink']                     = "Pridruži se nam na klepetalnici IRC"
 $lang['gi_web_report_bug'] = "Prijavi napako spletne strani";
 $lang['gi_web_translations'] = "Pomagaj prevesti to spletno stran";
 $lang['gi_view_design_submission'] = "Oglejte si navodila za oddajo dizajnov";
+// $lang['gi_web_github'] = "Find us on GitHub";

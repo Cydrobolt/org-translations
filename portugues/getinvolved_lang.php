@@ -31,3 +31,4 @@ $lang['gi_sec4para1']                   = "O nosso website é feito em HTML, CSS
 
 $lang['gi_irclink']                     = "Junte-se a nós no Internet Relay Chat (IRC)";
 
+// $lang['gi_web_github']                  = "Find us on GitHub";

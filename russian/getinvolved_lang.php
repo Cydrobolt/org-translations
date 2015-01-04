@@ -30,3 +30,4 @@ $lang['gi_sec3link2']               	= "Просмотреть страницу 
 $lang['gi_sec4para1']               	= "Наш веб-сайт построен с использованием HTML, CSS, PHP, MySQL и JavaScript. Мы постоянно ищем опытных людей в этих сферах, которые были бы рады внести свой вклад и сделать его еще лучше. Большая часть работы по внешнему виду была сделана нашей командой дизайнеров, но мы всегда рады свежим дизайнерским идеям и отзывам нашей веб-команде."; //eng:"Our website is built using HTML, CSS, PHP, MySQL, and JavaScript. We're always looking for people experienced in those areas who would like to contribute and make it even better. Most of the design work is done by our design team, but we love design ideas and feedback from our web team as well."
 
 $lang['gi_irclink']                 	= "Заходите к нам в чат! (IRC)"; //eng:"Join us on Internet Relay Chat (IRC)"
+// $lang['gi_web_github']                  = "Find us on GitHub";
